@@ -6,6 +6,7 @@ interface Props {
   name: string;
   nickname: string;
 }
+
 const FollowSuggestion: React.FC<Props> = ({ name, nickname }) => {
   return (
     <Container>
@@ -17,6 +18,7 @@ const FollowSuggestion: React.FC<Props> = ({ name, nickname }) => {
           <span>{nickname}</span>
         </Info>
       </div>
+
       <FollowButton outlined>Seguir</FollowButton>
     </Container>
   );
