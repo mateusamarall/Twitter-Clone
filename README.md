@@ -18,7 +18,6 @@ Responsive Twitter Clone for study
  2- Run  `yarn start` and access `http://localhost:3000`.
 
 
-![Capturar1](https://user-images.githubusercontent.com/37390930/88117917-b9bc2380-cb92-11ea-8b9f-9ba64bb70c83.PNG)
 ![Capturar](https://user-images.githubusercontent.com/37390930/88117915-b9238d00-cb92-11ea-9739-ebe83be5253c.PNG)
 
 
